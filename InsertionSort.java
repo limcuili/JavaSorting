@@ -22,7 +22,7 @@ class InsertionSort {
         printArray(x);
     }
 
-    public static void main (String args[]) {
+    public static void main (String[] args) {
         // Test 1
         int[] a = {3, 16, 2, 5, 1, 20};
         System.out.print("The array is : ");
